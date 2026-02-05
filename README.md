@@ -1,11 +1,3 @@
-[style.css](https://github.com/user-attachments/files/25094534/style.css)
-[indxe.html](https://github.com/user-attachments/files/25094535/indxe.html)[scrips.js](https://github.com/user-attachments/files/25094536/scrips.js)
-[scrips.js](https://github.com/user-attachments/files/25094608/scrips.js)
-const wrapper = document.getElementById("wrapper");
-const question = document.getElementById("question");
-const gif = document.getElementById("gif");
-const yesBtn = document.getElementById("yes-btn");
-const noBtn = document.getElementById("no-btn");[style.css](https://github.com/user-attachments/files/25094609/style.css)@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
 
 * {
     margin: 0;
